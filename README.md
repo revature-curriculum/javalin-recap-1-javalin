@@ -1,15 +1,15 @@
-## Javalin Dynamic Query Challenge
+## Javalin Recap 1
 ---
 ### Description
-In this lab, we will cover using query parameters to dynamically display something on your webpage.
+In this lab you will create a simple webapp with two routes. One route will have a basic result and the other will use dynamic query.
 
 ---
 ### Steps
-1. In src -> main -> java -> Main.java add a route "/favoriteBook".
-2. Use a dynamic query (look at lesson example) to display the name of your favorite book in the web browser in the new route you created.
+1. In src -> main -> java -> Main.java create two routes. One should display a simple string while the other uses dynamic query to take in a value from the path and display it.
 ---
 ### Sample Output
+Dynamic Query value = Spring
 ```java
-"Harry Potter and the Order of the Phoenix"
+"It is Spring"
 ```
 ---
