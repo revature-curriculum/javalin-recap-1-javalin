@@ -1,4 +1,4 @@
-## Javalin Recap 1
+## Javalin Recap 1 Answer
 ---
 ### Description
 In this lab you will create a simple webapp with two routes. One route will have a basic result and the other will use dynamic query.
