@@ -7,7 +7,9 @@ Open Theme. You can write about whatever you want(video games, shows, movies, et
 
 ---
 ### Steps
-1. In src -> main -> java -> Main.java create two routes. One should display a simple string while the other uses dynamic query to take in a value from the path and display it.
+1. In src -> main -> java -> Main.java create a route that displays a simple string.
+2. Create another route that uses dynamic query to take in a value from the path and then displays it.
+
 ---
 ### Sample Output
 Dynamic Query value = Spring
